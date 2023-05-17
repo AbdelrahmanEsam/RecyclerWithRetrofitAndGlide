@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerWithRetrofitAndGlide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">"price : "</string>
+    <string name="brand">"brand : "</string>
+    <string name="details">details ?</string>
+    <string name="dollar">$</string>
+    <string name="dollar_sign"> $</string>
+</resources>
